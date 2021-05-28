@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Hospital Moinhos de Vento](https://www.hospitalmoinhos.org.br/institucional)
 
-- 👨‍💻 All of my projects are available at [](https://github.com/andrelumertz)
+- 👨‍💻 All of my projects are available at [(https://github.com/andrelumertz)]
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL**
 
