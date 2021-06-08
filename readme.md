@@ -1,5 +1,5 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm André Martins</h1>
-<h3 align="center">A Web Developer ... </h3>
+<h3 align="center">A software developer in development, passionate about new technologies and learning new things. 🚀 </h3>
 
 
 - 🔭 I’m currently working on [Hospital Moinhos de Vento](https://www.hospitalmoinhos.org.br/institucional)
@@ -25,7 +25,6 @@
 <a href="https://www.linkedin.com/in/andr%C3%A9-martins-34b347134/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="andrelumertz" height="20" width="20" /></a>
 
 <!--
-**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
