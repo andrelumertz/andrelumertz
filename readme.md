@@ -1,8 +1,7 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm André Martins</h1>
 <h3 align="center">A software developer in development, passionate about new technologies and learning new things. 🚀 </h3>
 
-👨‍💻 <h2>About me </h2>
-<hr>
+ <h2> 👨‍💻 About me </h2>
 
 - 🔭 I’m currently working on [Hospital Moinhos de Vento](https://www.hospitalmoinhos.org.br/institucional)
 
