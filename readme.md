@@ -1,7 +1,7 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm André Martins</h1>
 <h3 align="center">A software developer in development, passionate about new technologies and learning new things. 🚀 </h3>
 
- <h2> 👨‍💻 About me </h2>
+ <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 - 🔭 I’m currently working on [Hospital Moinhos de Vento](https://www.hospitalmoinhos.org.br/institucional)
 
@@ -12,18 +12,30 @@
 - 📫 How to reach me **andrelumertzmartins@gmail.com**
 
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=andrelumertz&show_icons=true" alt="andrelumertz"/> 
-</p>
+<h2> 🛠 &nbsp;Tech Stack</h2>
+<h3>💻 &nbsp;Front-end:</h3>
 
-<p align="center">
-<a href="https://twitter.com/DecoLumertz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="andrelumertz" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/andr%C3%A9-martins-34b347134/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="andrelumertz" height="20" width="20" /></a>
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+![Gatsby](https://img.shields.io/badge/-Gatsby-333333?style=flat&logo=gatsby)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
+
+<h3>⚙️ &nbsp;Back-end and database:</h3>
+
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+
+
+<h2>🚀 &nbsp;A Little More About My Profile</h2>
+
+![andrelumertz GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrelumertz&show_icons=true&theme=dracula)
+
 
 <!--
 
