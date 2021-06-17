@@ -1,7 +1,5 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm André Martins</h1>
 <h3 align="center">A software developer in development, passionate about new technologies and learning new things. 🚀 </h3>
-<a href="https://www.linkedin.com/in/andr%C3%A9-martins-34b347134/"><img src="https://img.shields.io/badge/-Andre%20Martins%20-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:andrelumertzmartins@gmail.com"><img src="https://img.shields.io/badge/-andrelumertzmartins@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
  <h2> 👨🏻‍💻 &nbsp;About Me </h2>
@@ -13,6 +11,9 @@
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL**
 
 - 📫 How to reach me **andrelumertzmartins@gmail.com**
+- <a href="https://www.linkedin.com/in/andr%C3%A9-martins-34b347134/"><img src="https://img.shields.io/badge/-Andre%20Martins%20-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:andrelumertzmartins@gmail.com"><img src="https://img.shields.io/badge/-andrelumertzmartins@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
 
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
