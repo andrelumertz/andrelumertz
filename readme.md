@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/andrelumertz)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, JS**
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL**
 
 - 📫 How to reach me **andrelumertzmartins@gmail.com**
 
