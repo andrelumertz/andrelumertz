@@ -8,6 +8,8 @@
 
 
  <h2> 👨🏻‍💻 &nbsp;About Me </h2>
+ 
+- 🔥  Web Developer focused on creating amazing projects.
 
 - 🔭 I’m currently working on [Hospital Moinhos de Vento](https://www.hospitalmoinhos.org.br/institucional)
 
