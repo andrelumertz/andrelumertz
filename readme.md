@@ -42,10 +42,8 @@
 
 ![andrelumertz GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrelumertz&show_icons=true&theme=dracula)
 
-## 🎶 Ouvindo...
- 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12146821908&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=12146821908&redirect=true)
 
+![Snake animation](https://github.com/andrelumertz/andrelumertz/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 
