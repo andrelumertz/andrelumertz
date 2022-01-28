@@ -6,6 +6,8 @@
 
 </p>
 
+![mario coding](https://i.imgur.com/1ZvVkDc.gif)
+
 
  <h2> 👨🏻‍💻 &nbsp;About Me </h2>
  
