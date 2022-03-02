@@ -21,10 +21,10 @@
 
 - 📫 How to reach me **andrelumertzmartins@gmail.com**
 
-- ⚡ Fun fact ** I like Rock'n roll 🤘🏼 **
+- ⚡ Fun fact  I like Rock'n roll 🤘🏼 
 
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
