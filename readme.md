@@ -13,7 +13,7 @@
  
 - 🔥  Front End Developer focused on creating amazing projects.
 
-- 🔭 I’m currently working on [Rede La Salle](http://www.lasalle.edu.br/)
+- 🔭 I’m currently working on [Hospital Moinhos de Vento](https://www.hospitalmoinhos.org.br/institucional)
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/andrelumertz)
 
