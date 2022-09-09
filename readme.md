@@ -11,13 +11,13 @@
 
  <h2> 👨🏻‍💻 &nbsp;About Me </h2>
  
-- 🔥  Front End Developer focused on creating amazing projects.
+- 🔥  Front End Developer & UX Designer focused on creating amazing projects.
 
 - 🔭 I’m currently working on [Hospital Moinhos de Vento](https://www.hospitalmoinhos.org.br/institucional)
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/andrelumertz)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL**
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Figma**
 
 - 📫 How to reach me **andrelumertzmartins@gmail.com**
 
