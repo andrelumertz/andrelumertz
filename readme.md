@@ -6,7 +6,7 @@
 
 </p>
 
-![mario coding](https://i.imgur.com/1ZvVkDc.gif)
+![mario coding](https://images.unsplash.com/photo-1607743386760-88ac62b89b8a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
 
 
  <h2> 👨🏻‍💻 &nbsp;About Me </h2>
