@@ -1,4 +1,4 @@
-<h1 align="center">Hi dear, I'm André Martins</h1>
+<h1 align="center">Hi, I'm André Martins</h1>
 <h3 align="center">A developer web, passionate about new technologies and learning new things. 🚀 </h3>
 <p align="center"> 
 <a href="https://www.linkedin.com/in/andr%C3%A9-martins-34b347134/"><img src="https://img.shields.io/badge/-Andre%20Martins%20-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
