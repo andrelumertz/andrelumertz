@@ -13,7 +13,7 @@
  
 - 🔥  Front End Developer & UX Designer focused on creating amazing projects.
 
-- 🔭 I’m currently working on [Hospital Moinhos de Vento](https://www.hospitalmoinhos.org.br/institucional)
+- 🔭 I’m currently working at [Hospital Moinhos de Vento](https://www.hospitalmoinhos.org.br/institucional)
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/andrelumertz)
 
