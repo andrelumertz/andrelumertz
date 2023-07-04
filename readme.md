@@ -28,6 +28,8 @@
 
 ## 🛠 &nbsp;Tech Stack
 
+<img align='right' src='https://camo.githubusercontent.com/3c553beb641d154ec09f3f1cce78f434eb72a9b2843dc45e5aa191cc6234b383/687474703a2f2f7374617469632e76656c76657463616368652e6f72672f70616765732f323031382f30362f31332f70617274792d676f706865722f64616e63696e672d676f706865722e676966' width='200"'>
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -42,6 +44,15 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 
+  ---
+
+![npx command](./images/npx-command.gif)
+
+```shell
+$ npx andremartins
+```
+
+  ---
 
 <h2>🚀 &nbsp;A Little More About My Profile</h2>
 
