@@ -44,15 +44,7 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 
-  ---
 
-![npx command](./images/npx-command.gif)
-
-```shell
-$ npx andremartins
-```
-
-  ---
 
 <h2>🚀 &nbsp;A Little More About My Profile</h2>
 
