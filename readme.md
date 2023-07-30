@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **andrelumertzmartins@gmail.com**
 
-- ⚡ Fun fact  **I like Rock'n roll 🤘🏼**
+- ⚡ Curiosity  **I like Rock'n roll 🤘🏼**
 
 
 <br>
