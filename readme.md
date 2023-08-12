@@ -11,7 +11,7 @@
 
  <h2> 👨🏻‍💻 &nbsp;About Me </h2>
  
-- 🔥  Front End Developer & UX Designer focused on creating amazing projects.
+- 🔥  Front End Developer focused on creating amazing projects.
 
 - 🔭 I’m currently working at [Hospital Moinhos de Vento](https://www.hospitalmoinhos.org.br/institucional)
 
