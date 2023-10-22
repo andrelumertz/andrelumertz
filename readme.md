@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm André Martins</h1>
-<h3 align="center">A Front-end Developer, passionate about new technologies and learning new things. 🚀 </h3>
+<h3 align="center">A Front-end Developer, passionate about new technologies. 🚀 </h3>
 <p align="center"> 
 <a href="https://www.linkedin.com/in/andr%C3%A9-martins-34b347134/"><img src="https://img.shields.io/badge/-Andre%20Martins%20-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:andrelumertzmartins@gmail.com"><img src="https://img.shields.io/badge/-andrelumertzmartins@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -11,7 +11,7 @@
 
  <h2> 👨🏻‍💻 &nbsp;About Me </h2>
  
-- 🔥  Front End Developer focused on creating amazing projects.
+- 🔥  Front End Developer
 
 - 🔭 I’m currently working at [Hospital Moinhos de Vento](https://www.hospitalmoinhos.org.br/institucional)
 
@@ -21,14 +21,11 @@
 
 - 📫 How to reach me **andrelumertzmartins@gmail.com**
 
-- ⚡ Curiosity  **I like Rock'n roll 🤘🏼**
 
 
 <br>
 
 ## 🛠 &nbsp;Tech Stack
-
-<img align='right' src='https://camo.githubusercontent.com/3c553beb641d154ec09f3f1cce78f434eb72a9b2843dc45e5aa191cc6234b383/687474703a2f2f7374617469632e76656c76657463616368652e6f72672f70616765732f323031382f30362f31332f70617274792d676f706865722f64616e63696e672d676f706865722e676966' width='200"'>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
