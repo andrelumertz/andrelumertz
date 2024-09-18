@@ -2,7 +2,7 @@
 <h3 align="center">A Front-end Developer, enthusiast about new technologies. 🚀 </h3>
 <p align="center"> 
 <a href="https://www.linkedin.com/in/andr%C3%A9-martins-34b347134/"><img src="https://img.shields.io/badge/-Andre%20Martins%20-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:andrelumertzmartins@gmail.com"><img src="https://img.shields.io/badge/-andrelumertzmartins@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<!-- <a href="mailto:andrelumertzm@gmail.com"><img src="https://img.shields.io/badge/-andrelumertzmartins@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a> -->
 
 </p>
 
