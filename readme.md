@@ -11,9 +11,16 @@
 
 🚀 Estou em constante evolução e busco contribuir para projetos inovadores!
 
-<p align="center"> 
-<a href="https://www.linkedin.com/in/andr%C3%A9-martins-34b347134/"><img src="https://img.shields.io/badge/-Andre%20Martins%20-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/andr%C3%A9-martins-34b347134/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:andrelumertzmartins@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
+
 
 ---
 
