@@ -9,11 +9,11 @@
 
 ### Tecnologias que uso 🧑🏻‍💻
 
-[![My Skills](https://skillicons.dev/icons?i=discord,ps,ilustrator,figma,vscode,github,git,vite,postman,aws,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,ps,ai,codepen,notion,obsidian,figma,vscode,github,git,npm,md,vite,babel,postman,aws,linux&theme=dark)](https://skillicons.dev)
 
 ### Linguagens que uso 💻
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,py,html,css,bootstrap,tailwind,js,ts,react&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,py,html,css,bootstrap,jquery,nextjs,nodejs,tailwind,js,ts,react&theme=dark)](https://skillicons.dev)
 
 
 <div>
@@ -21,15 +21,9 @@
 
 <br>
 
-
-
-
 <h2>🚀 &nbsp;### Status do GitHub</h2>
 
 ![andrelumertz GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrelumertz&show_icons=true&theme=dracula)
-
-
-
 
 <!--
 
