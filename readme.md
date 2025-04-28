@@ -26,7 +26,7 @@
 
 ## 🧑🏻‍💻 Tecnologias que uso
 
-[![My Skills](https://skillicons.dev/icons?i=discord,ps,ai,codepen,notion,obsidian,figma,vscode,github,git,npm,md,vite,babel,postman,aws,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,ps,ai,codepen,notion,obsidian,figma,vscode,github,git,npm,md,vite,babel,postman,linux&theme=dark)](https://skillicons.dev)
 
 ## 💻 Linguagens que uso
 
