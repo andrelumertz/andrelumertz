@@ -3,7 +3,7 @@
 <p align="center"> 
 <a href="https://www.linkedin.com/in/andr%C3%A9-martins-34b347134/"><img src="https://img.shields.io/badge/-Andre%20Martins%20-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <!-- <a href="mailto:andrelumertzm@gmail.com"><img src="https://img.shields.io/badge/-andrelumertzmartins@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a> -->
-[Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-martins-34b347134/)
+
 </p>
 
 
@@ -15,7 +15,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,py,html,css,bootstrap,tailwind,js,ts,react&theme=dark)](https://skillicons.dev)
 
-### Status do GitHub
+
 <div>
 
 
@@ -24,7 +24,7 @@
 
 
 
-<h2>🚀 &nbsp;A Little More About My Profile</h2>
+<h2>🚀 &nbsp;### Status do GitHub</h2>
 
 ![andrelumertz GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrelumertz&show_icons=true&theme=dracula)
 
