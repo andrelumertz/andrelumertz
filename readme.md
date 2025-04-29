@@ -1,7 +1,7 @@
 
 
 
-# 👋 Olá, eu sou o André Martins
+# 👋 Olá, eu sou o André Lumertz
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas, com três anos de experiência prática no desenvolvimento de software. Tenho habilidades em:
 
