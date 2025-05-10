@@ -24,12 +24,9 @@
 
 ---
 
-## 🧑🏻‍💻 Tecnologias que uso
+## 🧑🏻‍💻 Tech stack
 
 [![My Skills](https://skillicons.dev/icons?i=discord,ps,ai,codepen,notion,obsidian,figma,vscode,github,git,npm,md,vite,babel,postman,linux&theme=dark)](https://skillicons.dev)
-
-## 💻 Linguagens que uso
-
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,py,html,css,bootstrap,jquery,nextjs,nodejs,tailwind,js,ts,react&theme=dark)](https://skillicons.dev)
 
 ---
