@@ -3,7 +3,7 @@
 
 # 👋 Olá, eu sou o André Lumertz
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas, com três anos de experiência prática no desenvolvimento de software. Tenho habilidades em:
+Developer Front-end com três anos de experiência prática no desenvolvimento de software. Tenho habilidades em:
 
 - Desenvolvimento de aplicações web (CRUD)
 - Criação e consumo de APIs RESTful
