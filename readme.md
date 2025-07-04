@@ -1,7 +1,7 @@
 
 
 
-# 👋 Olá, eu sou o André Lumertz
+# 👋 Olá, eu sou o André!
 
 Developer Front-end com três anos de experiência prática no desenvolvimento de software. Tenho habilidades em:
 
