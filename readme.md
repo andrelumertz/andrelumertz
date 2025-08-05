@@ -3,7 +3,7 @@
 
 # 👋 Olá, eu sou o André!
 
-Developer Front-end com três anos de experiência prática no desenvolvimento de software. Tenho habilidades em:
+Developer Full-stack com três anos de experiência prática no desenvolvimento de software. Tenho habilidades em:
 
 - Desenvolvimento de aplicações web (CRUD)
 - Criação e consumo de APIs RESTful
