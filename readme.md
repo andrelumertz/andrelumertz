@@ -2,7 +2,7 @@
 
 Desenvolvedor **Front-end Júnior** em formação, apaixonado por criar interfaces de usuário intuitivas e eficientes.
 
-Atualmente, estou me graduando em **Análise e Desenvolvimento de Sistemas** e já tenho na bagagem **experiência prática em projetos Front-end**, construindo a parte visual e a experiência do usuário.
+Atualmente, estou me graduando em **Análise e Desenvolvimento de Sistemas** e já tenho **experiência prática em projetos Front-end**, construindo a parte visual e a experiência do usuário.
 
 ---
 
