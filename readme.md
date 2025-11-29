@@ -6,7 +6,7 @@ Desenvolvedor em formação, atualmente estou me graduando em **Análise e Desen
 
 📬 Conecte-se comigo!
 
-LinkedIn: https://www.linkedin.com/in/andr%C3%A9-martins-34b347134/
+LinkedIn: www.linkedin.com/in/andre-lumertz
 
 Email: andrelumertzmartins@gmail.com
 
