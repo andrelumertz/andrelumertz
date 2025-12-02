@@ -10,6 +10,5 @@ LinkedIn: www.linkedin.com/in/andre-lumertz
 
 Email: andrelumertzmartins@gmail.com
 
-Feito com ❤️ por mim.
 
 
