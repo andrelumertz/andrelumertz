@@ -4,14 +4,14 @@
 
   Desenvolvedor em formação, atualmente graduando em **Análise e Desenvolvimento de Sistemas**.
   
-  Tenho foco no desenvolvimento **Front-end**, criando interfaces responsivas e experiências de usuário fluidas utilizando o ecossistema moderno de JavaScript.
+  Tenho foco no desenvolvimento **Front-end**, criando interfaces responsivas e na experiência do usuário.
 
   ---
 
   ## 🧑🏻‍💻 Tech Stack
 
   ### 💻 Linguagens & Frameworks
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,bootstrap,nodejs,py&theme=dark" alt="Linguagens e Frameworks" />
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,bootstrap,nodejs,py&theme=dark" alt="Linguagens e Frameworks" />
 
   ### 🧰 Ferramentas e Plataformas
   <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vite,figma,postman&theme=dark" alt="Ferramentas" />
