@@ -1,10 +1,10 @@
 <div align="center">
 
-  ## Olá! Eu sou o André! 👋
+  ## 👋 Olá! Eu sou o André! 
 
-  Desenvolvedor em formação, atualmente graduando em **Análise e Desenvolvimento de Sistemas**.
+  Graduando em **Análise e Desenvolvimento de Sistemas**.
   
-  Tenho foco no desenvolvimento **Front-end**, criando interfaces responsivas e na experiência do usuário.
+  Este espaço reflete minha jornada na tecnologia. Aqui compartilho meus projetos e minha evolução profissional.
 
   ---
 
