@@ -1,30 +1,32 @@
-## Olá! Eu sou o André! 👋
+<div align="center">
 
-Desenvolvedor em formação, atualmente estou me graduando em **Análise e Desenvolvimento de Sistemas** e já tenho **experiência prática em projetos no Front-end**, construindo a parte visual e a experiência do usuário.
+  ## Olá! Eu sou o André! 👋
 
----
+  Desenvolvedor em formação, atualmente graduando em **Análise e Desenvolvimento de Sistemas**.
+  
+  Tenho foco no desenvolvimento **Front-end**, criando interfaces responsivas e experiências de usuário fluidas utilizando o ecossistema moderno de JavaScript.
 
-## 🧑🏻‍💻 Tech stack
+  ---
 
-[![My Skills](https://skillicons.dev/icons?i=discord,ps,ai,codepen,notion,obsidian,figma,vscode,github,git,npm,md,vite,babel,postman,mysql,mongodb,postgres,py,html,css,bootstrap,jquery,nextjs,nodejs,tailwind,js,ts,react&theme=dark)](https://skillicons.dev)
-### 💻 Linguagens & Frameworks
-![skills](https://skillicons.dev/icons?i=py,html,css,js,react,nodejs,tailwind,bootstrap,&theme=dark)
+  ## 🧑🏻‍💻 Tech Stack
 
-### 🧰 Ferramentas e Plataformas
-![skills](https://skillicons.dev/icons?i=vscode,figma,github,git,npm,postman,vite,babel,md&theme=dark)
+  ### 💻 Linguagens & Frameworks
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,bootstrap,nodejs,py&theme=dark" alt="Linguagens e Frameworks" />
 
-### 🧠 Organização & Produtividade
-![skills](https://skillicons.dev/icons?i=notion,obsidian,discord,codepen&theme=dark)
+  ### 🧰 Ferramentas e Plataformas
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vite,figma,postman&theme=dark" alt="Ferramentas" />
 
-### 🗄️ Banco de Dados
-![skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark)
+  ### 🗄️ Banco de Dados
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" alt="Banco de Dados" />
 
+  ### 🧠 Organização & Produtividade
+  <img src="https://skillicons.dev/icons?i=notion,obsidian,discord&theme=dark" alt="Organização" />
 
-📬 Conecte-se comigo!
+  ---
 
-LinkedIn: www.linkedin.com/in/andre-lumertz
+  ### 📬 Vamos nos conectar?
 
-Email: andrelumertzmartins@gmail.com
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-lumertz)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrelumertzmartins@gmail.com)
 
-
-
+</div>
