@@ -14,7 +14,7 @@
   <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,bootstrap,nodejs,py&theme=dark" alt="Linguagens e Frameworks" />
 
   ### 🧰 Ferramentas e Plataformas
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,cursor,npm,vite,figma,postman&theme=dark" alt="Ferramentas" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vite,figma,postman&theme=dark" alt="Ferramentas" />
 
   ### 🗄️ Banco de Dados
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" alt="Banco de Dados" />
