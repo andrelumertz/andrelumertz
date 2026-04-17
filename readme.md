@@ -4,7 +4,7 @@
 
 Graduando em **Análise e Desenvolvimento de Sistemas**.
 
-Este espaço reflete minha jornada na tecnologia. Aqui compartilho meus projetos e minha evolução como desenvolvedor front-end, com foco em interfaces bem estruturadas e boa experiência do usuário.
+Este espaço reflete minha jornada na tecnologia. Aqui compartilho meus projetos e minha evolução como desenvolvedor.
 
 ---
 
@@ -13,11 +13,15 @@ Este espaço reflete minha jornada na tecnologia. Aqui compartilho meus projetos
 ### 💻 Front-end
 <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,bootstrap&theme=dark" alt="Front-end" />
 
-### 🧰 Ferramentas
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vite,figma&theme=dark" alt="Ferramentas" />
+### ⚙️ Back-end
+<img src="https://skillicons.dev/icons?i=nodejs,python,php&theme=dark" alt="Back-end" />
 
-### 🧠 Conhecimentos Complementares
-<img src="https://skillicons.dev/icons?i=nodejs,mysql&theme=dark" alt="Complementares" />
+### 🗄️ Banco de Dados
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="Database" />
+
+### 🧰 Ferramentas
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vite,figma,notion,postman&theme=dark" alt="Ferramentas" />
+
 
 ---
 
