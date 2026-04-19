@@ -20,7 +20,7 @@ Este espaço reflete minha jornada na tecnologia. Aqui compartilho meus projetos
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="Database" />
 
 ### 🧰 Ferramentas
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vite,figma,notion,postman,beekeeper&theme=dark" alt="Ferramentas" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vite,figma,beekeeper,notion,postman&theme=dark" alt="Ferramentas" />
 
 
 ---
