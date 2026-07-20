@@ -2,8 +2,6 @@
 
  ## 👋 Olá! Eu sou o André!
 
-Graduando em **Análise e Desenvolvimento de Sistemas**.
-
 Este espaço reflete minha jornada na tecnologia. Aqui compartilho meus projetos e minha evolução como desenvolvedor.
 
 ---
