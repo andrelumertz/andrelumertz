@@ -12,7 +12,7 @@ Este espaço reflete minha jornada na tecnologia. Aqui compartilho meus projetos
 <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,bootstrap&theme=dark" alt="Front-end" />
 
 ### ⚙️ Back-end
-<img src="https://skillicons.dev/icons?i=nodejs,python,php&theme=dark" alt="Back-end" />
+<img src="https://skillicons.dev/icons?i=nodejs,python&theme=dark" alt="Back-end" />
 
 ### 🗄️ Banco de Dados
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="Database" />
