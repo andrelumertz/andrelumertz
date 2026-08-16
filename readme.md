@@ -7,7 +7,7 @@ Graduado em Análise e Desenvolvimento de Sistemas no Senac, com interesse cresc
 
 ## >_ Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,nodejs,python,postgres,mongodb,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma,nodejs,python,postgres,mongodb,git,github&theme=dark" />
 
 ## >_ Vamos nos conectar
 
