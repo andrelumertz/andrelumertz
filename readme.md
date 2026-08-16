@@ -1,69 +1,30 @@
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="32px"/> >_ Olá!
 
+Sou o **André**, desenvolvedor **Front-end** brasileiro. Comecei minha jornada na tecnologia estudando Análise e Desenvolvimento de Sistemas, e hoje construo interfaces limpas e funcionais para a web.
+
+Atualmente estou expandindo meu leque para o **Back-end** e para **Inteligência Artificial**, buscando entender não só a interface, mas tudo o que acontece por trás dela.
+
+## >_ Sobre mim
+
+* **Análise e Desenvolvimento de Sistemas** — Senac
+* Foco atual: **Front-end** (React, TypeScript, Next.js)
+* Em estudo: **Back-end** (Node.js, Python) e **Inteligência Artificial**
+
+## >_ Stack
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,python,postgres,git,github&theme=dark" />
+
+## >_ Estatísticas
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=A9A9B2&center=true&vCenter=true&width=560&lines=Ol%C3%A1%2C+eu+sou+o+Andr%C3%A9;Desenvolvedor+Front-end;Estudando+Back-end+%26+IA" alt="Typing SVG" />
-
+  <img width="100%" src="https://streak-stats.demolab.com/?user=andrelumertz&theme=radical&hide_border=true&card_width=850"/>
 </div>
 
-<br/>
-
-<table align="center">
-<tr>
-<td width="60%" valign="top">
-
-### Sobre mim
-
-Formado em **Análise e Desenvolvimento de Sistemas** pelo Senac, atuo hoje como **desenvolvedor front-end**, construindo interfaces limpas e funcionais.
-
-Estou expandindo minha visão para o **back-end** e para **Inteligência Artificial**, buscando me tornar um dev cada vez mais completo — do design da interface à lógica por trás dela.
-
-</td>
-<td width="40%" valign="top" align="center">
-
-<img src="https://skillicons.dev/icons?i=js,react,ts&theme=dark" /><br/><br/>
-<sub>front-end hoje · back-end &amp; IA amanhã</sub>
-
-</td>
-</tr>
-</table>
-
-<br/>
+## >_ Vamos nos conectar
 
 <div align="center">
-
-### Stack
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,python,postgres,git,github,figma&theme=dark" /><br/><br/>
-<sub>front-end · back-end &amp; banco de dados <i>(em estudo)</i> · ferramentas</sub>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### GitHub
-
-<img src="https://github-readme-stats.vercel.app/api?username=andrelumertz&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=A9A9B2&icon_color=A9A9B2&text_color=8B8B94" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=andrelumertz&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=A9A9B2&fire=A9A9B2&currStreakLabel=A9A9B2" height="165" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### Vamos nos conectar?
-
-<a href="https://www.linkedin.com/in/andre-lumertz">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=A9A9B2" />
-</a>
-<a href="mailto:andrelumertzmartins@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=A9A9B2" />
-</a>
-
-<br/><br/>
-<sub>obrigado pela visita ✦</sub>
-
+  <a href="https://www.linkedin.com/in/andre-lumertz"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:andrelumertzmartins@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
