@@ -2,12 +2,12 @@
 
 ## >_ Sobre mim
 
-Sou o **André**, desenvolvedor **Front-end** Este espaço reflete minha jornada na tecnologia. Aqui compartilho meus projetos e minha evolução.
+Sou o **André**, desenvolvedor **Front-end**. Este espaço reflete minha jornada na tecnologia. Aqui compartilho meus projetos e minha evolução.
 Graduado em Análise e Desenvolvimento de Sistemas no Senac, com interesse crescente em **Inteligência Artificial**.
 
 ## >_ Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,nodejs,python,postgres,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,nodejs,python,postgres,mongodb,git,github&theme=dark" />
 
 ## >_ Vamos nos conectar
 
@@ -15,3 +15,4 @@ Graduado em Análise e Desenvolvimento de Sistemas no Senac, com interesse cresc
   <a href="https://www.linkedin.com/in/andre-lumertz"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:andrelumertzmartins@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
+
