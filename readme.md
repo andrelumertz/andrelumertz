@@ -10,8 +10,7 @@ Software Engineer with a degree in Systems Analysis and Development. Building so
 
 ### `>_ let's_connect`
 
-<div align="center">
   <a href="https://www.linkedin.com/in/andre-lumertz"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:andrelumertzmartins@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
+
 
