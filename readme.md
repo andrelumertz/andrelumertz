@@ -4,7 +4,7 @@
 
 Software Engineer with a degree in Systems Analysis and Development. Building software, fixing bugs, and occasionally creating new ones.
 
-Currently expanding my knowledge of **Artificial Intelligence** and exploring how to apply it to real-world projects.
+Currently expanding my knowledge of A.I and exploring how to apply it to real-world projects.
 
 ### `>_ tech_stack`
 
