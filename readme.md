@@ -1,15 +1,14 @@
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="32px"/> >_ Olá!
+# 👋 Hey, I'm André!
 
-## >_ Sobre mim
+### `>_ whoami`
 
-Sou o **André**, desenvolvedor **Front-end**. Este espaço reflete minha jornada na tecnologia. Aqui compartilho meus projetos e minha evolução.
-Graduado em Análise e Desenvolvimento de Sistemas no Senac, com interesse crescente em **Inteligência Artificial**.
+Software Engineer with a degree in Systems Analysis and Development. Building software, fixing bugs, and occasionally creating new ones.
 
-## >_ Stack
+### `>_ tech_stack`
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma,nodejs,python,postgres,mongodb,git,github&theme=dark" />
 
-## >_ Vamos nos conectar
+### `>_ let's_connect`
 
 <div align="center">
   <a href="https://www.linkedin.com/in/andre-lumertz"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
