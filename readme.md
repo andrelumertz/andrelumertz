@@ -4,7 +4,7 @@
 
 Software Engineer with a degree in Systems Analysis and Development and professional experience in software development, system maintenance, and support.
 
-I enjoy learning new technologies, solving problems, and building software. Currently expanding my knowledge of modern web development and exploring AI through practical projects.
+I enjoy learning new technologies, solving problems, and building products. Currently expanding my knowledge of modern web development and exploring AI through practical projects.
 
 ### `>_ tech_stack`
 
